@@ -1,2 +1,2 @@
-# Zomato-homrPageClone
+# Zomato-homePageClone
 HTML&amp;CSS Project
